@@ -1,4 +1,4 @@
-## Hi there 👋
+## Recently completed my Diploma in Cyber Security and Information Technology, and I'm continuing to build on it as I work toward a career change. Cyber security is where my focus is now, and I'm looking forward to getting learning as much as possible. Alongside my studies, I bring several years of field engineering experience across WA's geophysical sector, currently working with Epiroc. Reach me on linkedIn!
 
 <!--
 **samwilliams-png/samwilliams-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
